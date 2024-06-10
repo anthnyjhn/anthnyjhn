@@ -1,2 +1,1 @@
-<h1>Hello<h1/>
-<h3>Hello<h3/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=anthnyjhn)](https://git.io/streak-stats)
