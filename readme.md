@@ -17,6 +17,6 @@ I'm building projects to strengthen my backend development skills. Check out my 
 
 ### Links
 
-Portfolio: [anthnyjhn.com](anthnyjhn.com)
-Blogs: [blog.anthnyjhn.com](blog.anthnyjhn.com)
+Portfolio: [anthnyjhn.com](https://anthnyjhn.com)
+Blogs: [blog.anthnyjhn.com](https://blog.anthnyjhn.com)
 Email: [johncaronongan17@gmail.com](mailto:johncaronongan17@gmail.com)
