@@ -9,7 +9,7 @@ I enjoy building things. Most of my projects are focused on backend development,
 **Tech I work with**
 
 - C# / ASP.NET core
-- TypeScript / React
+- TypeScript / React / NodeJS
 - MSSQL / PostgreSQL
 - Docker
 - AWS
