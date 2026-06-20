@@ -4,7 +4,7 @@
 ## About Me
 I'm Anthony, an IT student at Swinburne University studying Software Development and Data Science.
 
-I enjoy building things. Most of my projects are focused on backend development, all documented on my [blog site](https://blog.anthnyjhn/com).
+I enjoy building things. Most of my projects are focused on backend development, cloud and networking, all documented on my [blog site](https://blog.anthnyjhn/com).
 
 **Tech I work with**
 
